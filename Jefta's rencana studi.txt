@@ -1,0 +1,7 @@
+Bahasa Pemrograman:
+1. Python
+  - Jupyter Notebook
+  - Video EDA
+2. Google Script
+  - Automasi
+3. HTML
