@@ -6,3 +6,6 @@ Bahasa Pemrograman:
   - Automasi
 3. HTML
 4. Javascript
+5. Vue
+6. Lavarel
+7. Git
