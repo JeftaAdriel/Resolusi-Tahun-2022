@@ -4,5 +4,9 @@ Bahasa Pemrograman:
   - Video EDA
 2. Google Script
   - Automasi
+    - React
 3. HTML
 4. Javascript
+5. Vue
+6. Lavarel
+7. Git
