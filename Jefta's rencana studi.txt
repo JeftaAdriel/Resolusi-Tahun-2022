@@ -1,0 +1,4 @@
+Bahasa Pemrograman:
+1. Python
+2. Google Script
+3. HTML
