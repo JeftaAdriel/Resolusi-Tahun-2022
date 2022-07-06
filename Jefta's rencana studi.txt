@@ -5,3 +5,4 @@ Bahasa Pemrograman:
 2. Google Script
   - Automasi
 3. HTML
+4. Javascript
